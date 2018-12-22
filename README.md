@@ -1,5 +1,7 @@
 # Menu Swauncher Overview
 
+![Menu Swauncher](https://widgetworx.com/resources/menu_swauncher.png)
+
 Menu Swauncher (a portmanteau of "Switcher" and "Launcher") is a simple application switcher and launcher that runs in your Mac's menu bar that has the following features:
 
 - Quickly switch between currently running applications
