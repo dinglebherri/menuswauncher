@@ -10,7 +10,10 @@ Menu Swauncher (a portmanteau of "Switcher" and "Launcher") is a simple applicat
 - Choose whether to run it each time you login to your computer
 - And more...
 
-## Building Menu Swauncher
+You can always download the latest version from here:
+(https://widgetworx.com/projects/menu_swauncher.html)
+
+# Building Menu Swauncher
 
 *Menu Swauncher* was written in a combination of Perl, AppleScript, and shell commands and built with [Platypus](https://www.sveinbjorn.org/platypus).
 
