@@ -12,9 +12,6 @@
 - Choose whether to run it each time you login to your computer
 - And more...
 
-You can always download the latest version from here:
-(https://widgetworx.com/projects/menu_swauncher.html)
-
 # Building Menu Swauncher
 
 *Menu Swauncher* was written in a combination of Perl, AppleScript, and shell commands and built with [Platypus](https://www.sveinbjorn.org/platypus).
